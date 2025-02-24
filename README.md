@@ -31,6 +31,9 @@ Highly motivated cybersecurity professional with expertise in **network defense*
 - Explored and documented **LPN DataCenter** architecture.
 
 ---
+## 📂 PROJECTS 
+ ## **TEST: 
+
 
 ## 🔧 Technical Skills
 
