@@ -1,78 +1,99 @@
-# 👋 Hi, I'm Roland
+<h1 align="center">Hi 👋, I'm Roland Victor Musa</h1>
 
-**`CyberSecurity and Network Administrator`**  
-📍 Based in Mohammedia, Morocco  
+<p align="center">
+Cybersecurity Professional · SOC Analyst · Cloud Security Enthusiast  
+</p>
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rolandvictormusa@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/) <!-- UPDATE LINK -->
-[![Phone](https://img.shields.io/badge/-Phone-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+212617227085)
+<p align="center">
+  <a href="mailto:rolandvictormusa@gmail.com"><img src="https://img.shields.io/badge/Email-rolandvictormusa@gmail.com-red?style=flat-square" /></a>
+  <a href="https://www.linkedin.com/in/rolandvictormusa/"><img src="https://img.shields.io/badge/LinkedIn-rolandvictormusa-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://www.credly.com/users/roland-victor-musa"><img src="https://img.shields.io/badge/Credentials-View_on_Credly-orange?style=flat-square" /></a>
+</p>
 
 ---
 
-## 🚀 Profile
-Highly motivated cybersecurity professional with expertise in **network defense**, **penetration testing**, and **vulnerability management**. Adept at using tools like **Metasploit**, **Wazuh**, **Linux** and **CrowdStrike** etc to secure infrastructures. Passionate about combating evolving cyber threats through continuous learning and innovation.
+## 🧠 About Me
+
+- 🎓 Bachelor's Degree in **Cybersecurity** at ENSET Mohammedia  
+- 💡 Passionate about **SOC operations**, **cloud security**, and **automation**  
+- 🔍 Interested in **SIEM**, **SOAR**, and **penetration testing**  
+- 🌍 Based in Casablanca, Morocco  
 
 ---
 
 ## 💼 Professional Experience
 
-### **Intern - Security and Network Administration**  
-**Librairie Papeterie Nationale Mohammedia** *(Nov 2024 - Jan 2025)*  
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-![Fortigate](https://img.shields.io/badge/-Fortigate-EE3124?style=flat&logo=fortinet&logoColor=white)
-![GLPI](https://img.shields.io/badge/-GLPI-2496ED?style=flat&logo=gitlab&logoColor=white)
+### 🛡️ Cybersecurity & Ethical Hacking Intern – Hack Secure India (Remote)  
+**Mar 2025 – May 2025**  
+- Used Nmap for vulnerability scanning and Wireshark for traffic analysis  
+- Simulated brute-force and web attacks to test defenses  
+- Created incident response playbooks and monitored SIEM alerts  
+- Performed malware containment and recovery  
 
-- Deployed **Wazuh** for log surveillance and security management.
-- Monitored threats in real-time using **CrowdStrike**.
-- Migrated IT infrastructure to **Azure Cloud**.
-- Configured **Fortigate Firewall** security profiles.
-- Managed **Active Directory** and resolved IT incidents.
-- Installed and configured **GLPI** for IT asset management.
-- Explored and documented **LPN DataCenter** architecture.
-
----
-## 📂 PROJECTS 
- ## **TEST: https://github.com/RolandVictorMusa/Project **
-
-
-## 🔧 Technical Skills
-
-**Tools & Platforms**:  
-![Wazuh](https://img.shields.io/badge/-Wazuh-000000?style=flat)
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-000000?style=flat&logo=burpsuite&logoColor=white)
-![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white)
-
-**Programming**:  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-
-**Networking**:  
-VLAN | DHCP | DNS | IP Addressing | Cisco Packet Tracer  
-
-**Security**:  
-Vulnerability Scanning | SSL/TLS Encryption | Brute Force Mitigation  
-
-**OS & Virtualization**:  
-Windows | Kali Linux | Ubuntu | VMware | VirtualBox  
+### 🖥️ Cybersecurity & Network Administrator Intern – Librairie Papeterie Nationale, Mohammedia  
+**Nov 2024 – Jan 2025**  
+- Deployed Wazuh for log monitoring and Fortigate firewall for perimeter security  
+- Managed Active Directory users and configured Azure cloud migration  
+- Used CrowdStrike for threat detection and GLPI for incident tracking  
+- Conducted security assessments and improved system defenses  
 
 ---
 
-## 📚 Education & Certifications
+## 🧰 Skills & Tools
 
-- **BSc. Network Administration & Cybersecurity**
-  *École Normale Supérieure d’Enseignement Technique de Mohammedia (ENSET)* *UNIVERSITY HASSAN II OF CASABLANCA*  
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TheHive-FF6600?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Nmap-0070A0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Metasploit-0000FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure"/>
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware"/>
+</p>
 
-- **Cisco Certifications**:  
-  ![Cisco Cyber Threat](https://img.shields.io/badge/-Cyber_Threat_Management-1BA0D7?style=flat)  
-  ![Cisco Ethical Hacker](https://img.shields.io/badge/-Ethical_Hacker-1BA0D7?style=flat)  
-  ![Cisco Network Defense](https://img.shields.io/badge/-Network_Defense-1BA0D7?style=flat)  
+---
 
-- **Other Certifications**:  
-  ![TryHackMe](https://img.shields.io/badge/-Advent_of_Cyber_2024-FFD700?style=flat)  
-  ![Mastercard](https://img.shields.io/badge/-Mastercard_Cybersecurity-EB001B?style=flat&logo=mastercard&logoColor=white)
+## 🚀 Projects
 
-   - **[Full list on Credly](https://www.credly.com/users/rolandvictormusa)**
+### 🔒 Deploy and Configure Active Directory Domain Services on a Windows Server EC2 Instance in AWS
+
+### ⚙️Breaking the Gate: A Practical Hydra Brute Force Attack Lab
+
+### 🔥 Securing Python Client-Server Communication with Fernet Encryption & Wireshark
+
+### 🧪 SOC Analyst Lab
+Simulated real-world incidents and detected threats in real time with Splunk and Kali Linux.
+
+### 🕵️‍♂️ Design and Implementation of a Secure, Scalable Network Infrastructure for a Medium-Sized IT Enterprise
+### 🕵️‍♂️ Personalized and Efficient Database Backup Using Bash Shell Script
+
+---
+
+## 🏅 Certifications
+
+- Microsoft Certified: Azure Administrator (AZ-104)
+- AWS Certified Cloud Practitioner
+- Cisco CyberOps Associate
+- Cisco Junior Cybersecurity Analyst
+- Cisco Network Defence
+- Fortigate Administrator
+- Red Hat System Administration
+- [Full list on Credly](https://www.credly.com/users/roland-victor-musa)
+
+---
+
+## 📫 Contact Me
+
+- 📧 rolandvictormusa@gmail.com
+- 📞 +212 617 227 085  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rolandvictormusa)  
+- 📜 [Credly](https://www.credly.com/users/roland-victor-musa)
+
+---
+
 
 ---
 
@@ -81,5 +102,6 @@ Windows | Kali Linux | Ubuntu | VMware | VirtualBox
 - **French**: Advanced  
 
 ---
+> “Always learning. Always building. Always securing.”
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark) <!-- UPDATE USERNAME -->
