@@ -56,22 +56,6 @@ Cybersecurity Professional · SOC Analyst · Cloud Security Enthusiast
 
 ---
 
-## 🚀 Projects
-
-### 🔒 Deploy and Configure Active Directory Domain Services on a Windows Server EC2 Instance in AWS
-
-### ⚙️Breaking the Gate: A Practical Hydra Brute Force Attack Lab
-
-### 🔥 Securing Python Client-Server Communication with Fernet Encryption & Wireshark
-
-### 🧪 SOC Analyst Lab
-Simulated real-world incidents and detected threats in real time with Splunk and Kali Linux.
-
-### 🕵️‍♂️ Design and Implementation of a Secure, Scalable Network Infrastructure for a Medium-Sized IT Enterprise
-### 🕵️‍♂️ Personalized and Efficient Database Backup Using Bash Shell Script
-
----
-
 ## 🏅 Certifications
 
 - Microsoft Certified: Azure Administrator (AZ-104)
